@@ -3,6 +3,6 @@
 - 紀錄內容:     活動地點、日期、賽事名稱、競賽距離
 - 紀錄時間:     2015/1/1 ~ 2023/1/1
 - 賽事項目:     路跑、長泳、登高、鐵人三項
-- 互動式資料視覺化連結:   https://nashkuo.github.io/events_maps
+- 互動式資料視覺化連結:   [https://nashkuo.github.io/events_maps](https://nashkuo.github.io/projects/running_maps/events_maps.html)
 
 備註: 賽事活動持續更新
